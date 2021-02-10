@@ -12,7 +12,7 @@ The best way to demo a code post is to display a real life post, so check out th
 
 Sometimes you want to break your components out of the constraints that they find themselves in. A common situation where this occurs is when you don’t have much control of the container that it exists in, such as a CMS main content area.
 
-![](/images/camenskih.jpg)
+![The top of a grey concrete building with a blue sky in the background](/images/camenskih.jpg)
 
 This is even more the case with editing tools such as the [WordPress Gutenberg editor](https://wordpress.org/gutenberg/), where in theory, you could pull in a component from a design system and utilise it in the main content of your web page. In these situations, it can be pretty darn handy to have a little utility that makes the element 100% of the viewport’s width *and* still maintain its flow within its parent container.
 
